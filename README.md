@@ -176,8 +176,8 @@ Please read the complete license before usage.
 ## Webserver
 
 You may wish to visit the webserver at https://rth.dk/resources/crispr, which
-alows for more more analysis out-of-the-box for small scale usage. However, see
-README\_webserv.md for a discussion of the differences to the off-line version
+allows for more more analysis out-of-the-box for small scale usage. However, see
+README\_webserver.md for a discussion of the differences to the off-line version
 presented here.
 
 ## Citations

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#  Copyright 2025 Jan Gorodkin, Sun Ying, Christian Anthon
+#  Copyright 2025 Jan Gorodkin, Sun Ying, Christian Anthon, Giulia Corsi
 # 
 #  Use of this software is governed by the Business Source License
 #  included in the file licenses/BSL.txt.
