@@ -15,11 +15,11 @@ services are provided exclusively to accredited academic institutions or
 individuals affiliated with them for non-commercial research or educational
 purposes. Any production use must cite CITATION.
 
-Change Date: August 28, 2025, Four years from the date the Licensed Work is published
+Change Date: August 27, 2025, Four years from the date the Licensed Work is published
 
 Change License: Apache License, Version 2.0
 
-Updated August 28, 2025 
+Updated August 27, 2025 
 
 Terms
 
@@ -66,3 +66,7 @@ Contact: For commercial and other licensing inquiries, please contact:
 software@rth.dk
 
 CITATION
+**Deep learning models simultaneously trained on multiple datasets improve
+base-editing activity prediction.** Sun Y, Qu K, Corsi GI, Anthon C, Pan X,
+Xiang X, Jensen LJ, Lin L, Luo Y, Gorodkin J. accepted.
+
