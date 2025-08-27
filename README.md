@@ -191,5 +191,5 @@ Xiang X, Jensen LJ, Lin L, Luo Y, Gorodkin J. submitted.
 
 ## Contact
 
-In case of problems or bug reports, please contact <software+crispr@rth.dk>
+In case of problems or bug reports, please contact <software@rth.dk>
 

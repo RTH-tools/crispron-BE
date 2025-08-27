@@ -25,7 +25,7 @@ echo "downloading crispron V0 models"
 
 echo "downloading crispron-BE models"
 [[ -e $DIR/CRISPRonBE_models-1.0.tgz ]] || wget https://rth.dk/resources/crispr/crispron-be/downloads/CRISPRonBE_models-1.0.tgz -O $DIR/CRISPRonBE_models-1.0.tgz || exit 1
-[[ -d $DIR/data/CRISPRonBE_models ]] || tar xf $DIR/CRISPRon_models_V0-1.0.tgz -C $DIR || exit 1
+[[ -d $DIR/data/CRISPRonBE_models ]] || tar xf $DIR/CRISPRonBE_models-1.0.tgz -C $DIR || exit 1
 [[ -d $DIR/data/CRISPRonBE_models ]] || mv $DIR/CRISPRonBE_models-1.0 $DIR/data/CRISPRonBE_models  
 
 
