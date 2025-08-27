@@ -21,7 +21,8 @@ https://docs.conda.io/en/latest/miniconda.html to learn how to install conda on
 your system. Once conda is correctly installed. You need to install the
 CRISPRon-BE requirements with
 
-	conda create -y -c bioconda -c conda-forge -n crispronbe python=3.10 tensorflow=2.10.0 biopython=1.79 viennarna=2.5.1 pandas=2.2.2
+	conda create -y -c bioconda -c conda-forge -n crispronbe \\
+       python=3.10 tensorflow=2.10.0 biopython=1.79 viennarna=2.5.1 pandas=2.2.2
 
 Later versions are also expected to work. However, the program depends on
 RNAfold and versions other than 2.5.1 of the ViennaRNA package will give
@@ -33,12 +34,12 @@ CRISPRon-BE needs CRISPRoff v.1.1.2 and CRISPRon v1.0 to run in addition to the
 ML models, which are quite large and are therefore separate downloads from
 https://rth.dk.
 
-The easiest way to download the model with the CRISPRon and CRISPRoff software
+The easiest way to download the models and the CRISPRon and CRISPRoff software
 is to run the following script
 
     bin/download_and_test.sh
 
-Alternatively you may follow the steps outlined in the script.
+Alternatively you can follow the individual steps outlined in the script.
 
 Note: CRISPRon-BE uses the CRISPRon\_V0 model, which is trained using 5
 validation sets, while the models in https://github.com/RTH-tools/crispron is
