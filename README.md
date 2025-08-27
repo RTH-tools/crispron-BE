@@ -115,10 +115,10 @@ You will get the following output in crispronABE\_prediction.tsv
 Here CRISPRon-ABE predicts the gRNA editing efficiency and all the potential edited outcomes.
 The input is 30nt target DNA sequence, including 4nt upstream + 20nt protospacer + 3nt PAM + 3nt downstream
 
-CRISPRon-ABE predicts this gRNA editing efficiency 49.87.
+CRISPRon-ABE predicts this gRNA editing efficiency 50.11.
 In addition, there are two \"A\"s in the editing window (from position 3 to position 10 in 20nt gRNA sequence).
 After edited by ABE, this target DNA sequence may generate three different edited outcomes.
-Their frequencies are 47.60, 1.92, 0.35, respectively.
+Their frequencies are 47.20, 2.10, 0.81, respectively.
 
 ### Tailormade prediction
 When do prediction on new gRNAs, users can do tailormade predictions by

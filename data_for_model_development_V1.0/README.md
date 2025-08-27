@@ -12,7 +12,7 @@ Four processed datasets used for training and testing in CRISPRon-BE are also in
 
 In each file, there are 10 columns:
 
-	target: 20 nt gRNA sequence
+	refs: 20 nt gRNA sequence
 	outcomes: 20 nt outcome sequence
 	newc: number of reads for each outcome
 	total: sum of reads from all the outcomes of one gRNA

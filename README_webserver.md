@@ -1,4 +1,4 @@
-# Webserver for CRISPRon-be
+# Webserver for CRISPRon-BE
 
 You may wish to visit the webserver at https://rth.dk/resources/crispr, which
 allows for more more analysis out-of-the-box for small scale usage.
