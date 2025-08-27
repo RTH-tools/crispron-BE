@@ -1,0 +1,9 @@
+#check all target sequences are 30 nt
+#pass
+
+#check all sequences with PAM NGG
+#pass
+
+#check all sequences with at least one A in editing window from position 3 to 10 in gRNAs
+CTCCCCCGGGCGCGGCAGTTACGGCGGTTC without A in editing window(position 3-10 in gRNAs)
+
