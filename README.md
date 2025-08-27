@@ -33,12 +33,14 @@ CRISPRon-BE needs CRISPRoff v.1.1.2 and CRISPRon v1.0 to run in addition to the
 ML models, which are quite large and are therefore separate downloads from
 https://rth.dk.
 
-The easiest way to download  along with the CRISPRon and CRISPRoff software
+The easiest way to download the model with the CRISPRon and CRISPRoff software
 is to run the following script
 
     bin/download_and_test.sh
 
-Note: This models for version is CRISPRon\_V0, which is trained using 5
+Alternatively you may follow the steps outlined in the script.
+
+Note: CRISPRon-BE uses the CRISPRon\_V0 model, which is trained using 5
 validation sets, while the models in https://github.com/RTH-tools/crispron is
 trained using 6 validation sets. CRISPRon\_V0 is chosen to prevent data leakage
 from predicted Cas9 indel frequency.
@@ -162,7 +164,7 @@ Kissling ABE7.10 datasets in ABE7.10 with weight \"0-0-0.5-0.5-0\"
 
 CRISPRonBE is released under the Business Source License (BSL). It grants you
 the right to copy, modify, create derivative works, redistribute, and make
-non-production use of it. For production uses, including academic use, please
+non-production use of it. For production uses please
 consult the Additional Use clause in the version of the BSL license provided
 with the software or contact software@rth.dk for advice. Each dated version of
 the license turns into the more permissive Apache License v2.0 after four
